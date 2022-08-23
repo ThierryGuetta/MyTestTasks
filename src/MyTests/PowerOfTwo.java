@@ -1,3 +1,5 @@
+package src.MyTests;
+
 import java.util.Scanner;
 
 public class PowerOfTwo {
