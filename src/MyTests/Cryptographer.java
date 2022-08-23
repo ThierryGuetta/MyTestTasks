@@ -2,7 +2,7 @@ package src.MyTests;
 
 import java.util.Arrays;
 
-public class Ñryptographer {
+public class Cryptographer {
     public static void main(String[] args) {
         int[] array = {1, 5, 6, 7, 4, 1, 2, 3, 5, 12};
         int password = 1997;
