@@ -15,6 +15,8 @@ public class CheckFileExtansion {
             System.out.println("It's HTML-page");
         } else if (fileName.endsWith(".mp3") || fileName.endsWith(".wav") || fileName.endsWith(".flac")) {
             System.out.println("It's music file");
+        } else if (fileName.endsWith(".txt")) {
+            System.out.println("It's text file");
         } else System.out.println("Non-expected file extansion");
     }
 }
