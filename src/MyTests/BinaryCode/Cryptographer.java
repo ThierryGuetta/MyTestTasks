@@ -1,4 +1,4 @@
-package src.MyTests;
+package src.MyTests.BinaryCode;
 
 import java.util.Arrays;
 import java.util.Scanner;

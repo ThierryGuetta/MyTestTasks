@@ -1,4 +1,4 @@
-package src.MyTests;
+package src.MyTests.BinaryCode;
 
 public class BinaryFlags {
     public static void main(String[] args) {
