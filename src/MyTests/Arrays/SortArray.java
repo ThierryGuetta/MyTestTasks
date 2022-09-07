@@ -1,4 +1,4 @@
-package MyTests;
+package src.MyTests.Arrays;
 import java.util.Arrays;
 
 public class SortArray {
