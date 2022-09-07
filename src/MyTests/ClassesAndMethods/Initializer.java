@@ -1,4 +1,4 @@
-package MyTests;
+package src.MyTests.ClassesAndMethods;
 
 public class Initializer {
     public static void main(String[] args) {

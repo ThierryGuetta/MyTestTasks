@@ -1,4 +1,4 @@
-package src.MyTests;
+package src.MyTests.ClassesAndMethods;
 
 public class ClassInfo {
     public static void main(String[] args) {
