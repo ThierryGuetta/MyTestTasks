@@ -1,4 +1,4 @@
-package MyTests;
+package src.MyTests.Cycles;
 
 public class ForTriangle001 {
     public static void main(String[] args) {

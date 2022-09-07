@@ -1,4 +1,4 @@
-package MyTests;
+package src.MyTests.Cycles;
 
 public class WhileBoxTest {
     public static void main(String[] args) {
