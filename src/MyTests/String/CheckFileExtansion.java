@@ -1,4 +1,4 @@
-package src.MyTests;
+package src.MyTests.String;
 
 import java.util.Scanner;
 

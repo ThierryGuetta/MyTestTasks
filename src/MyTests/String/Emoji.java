@@ -1,4 +1,4 @@
-package src.MyTests;
+package src.MyTests.String;
 
 public class Emoji {
     public static void main(String[] args) {
