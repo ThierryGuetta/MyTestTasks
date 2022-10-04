@@ -1,4 +1,4 @@
-package src.MyTests.Arrays;
+package src.MyTests.Arrays.OtherTasks;
 
 import java.util.Arrays;
 

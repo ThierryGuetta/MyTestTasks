@@ -1,4 +1,4 @@
-package src.MyTests.Arrays;
+package src.MyTests.Arrays.OtherTasks;
 
 public class TwoDimensionalArrayView {
     public static void main(String[] args) {
