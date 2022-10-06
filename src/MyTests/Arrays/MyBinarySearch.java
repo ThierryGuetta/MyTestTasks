@@ -17,6 +17,7 @@ public class MyBinarySearch {
             if (key == array[mid]) pos = mid;
             else if (key > array[mid]) start = mid + 1;
             else if (key < array[mid]) end = mid - 1;
+            else System.out.println(pos);
         }
         System.out.println(pos);
     }
