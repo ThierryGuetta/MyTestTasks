@@ -1,4 +1,4 @@
-package src.MyTests.ClassesAndMethods;
+package src.MyTests.ClassesAndMethods.OtherTasks;
 
 public class ClassAndConstructorsTraining {
     public static void main(String[] args) {

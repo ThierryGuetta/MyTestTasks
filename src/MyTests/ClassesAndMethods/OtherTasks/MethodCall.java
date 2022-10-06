@@ -1,4 +1,4 @@
-package src.MyTests.ClassesAndMethods;
+package src.MyTests.ClassesAndMethods.OtherTasks;
 
 import java.util.Scanner;
 
