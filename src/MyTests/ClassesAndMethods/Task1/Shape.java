@@ -57,7 +57,7 @@ class Box extends Shape {
     }
 }
 
-class SolidOfRevolution extends Shape {
+class SolidOfRevolution extends Shap {
     private double radius;
 
     public SolidOfRevolution(double volume, double radius) {
