@@ -1,4 +1,4 @@
-package src.MyTests.Сomparator;
+package src.MyTests.Comparator;
 
 import java.util.ArrayList;
 
@@ -57,7 +57,7 @@ class Employee {
 
     @Override
     public String toString() {
-        return "Имя - " + name + "\n" + " Возраст - " + age + "\n" + " Опыт работы - " + experience + "\n"
-                + "Зарплата - " + salary + "\n";
+        return "РРјСЏ - " + name + "\n" + " РІРѕР·СЂР°СЃС‚ - " + age + "\n" + " РѕРїС‹С‚ СЂР°Р±РѕС‚С‹ - " + experience + "\n"
+                + "Р·Р°СЂРїР»Р°С‚Р° - " + salary + "\n";
     }
 }
